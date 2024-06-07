@@ -110,3 +110,9 @@ body {
     display: none;
   }
 }
+@media (max-width: 1024px) {
+  .image-text p{
+    font-size: 24px;
+  }
+  
+}
