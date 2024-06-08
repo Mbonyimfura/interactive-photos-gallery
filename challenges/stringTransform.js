@@ -17,5 +17,5 @@ const transformString = (str) => {
   }
   return str; // return the transformed string
 };
-//Example usage
+//Example 
 console.log(transformString("hello")); // 104 101 108 108 111
